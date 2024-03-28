@@ -5,7 +5,7 @@ Welcome to your 30-day Python mission! This structured plan will help you enhanc
 ## Days 1-5: Python Basics
 - **Day 1-2**: Introduction to Python, variables, data types, and basic operations. ✔️
 - **Day 3-4**: Control flow: if statements, loops (for and while).✔️
-- **Day 5**: Functions: defining functions, parameters, return statements.
+- **Day 5**: Functions: defining functions, parameters, return statements.✔️
 
 ## Days 6-10: Data Structures
 - **Day 6-7**: Lists: creation, indexing, slicing, common operations.
