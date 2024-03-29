@@ -1,4 +1,7 @@
 # day 6
+
+# array
+
 # Creating a list
 my_list = [1, 2, 3, 4, 5]
 print("Original list:", my_list)
