@@ -10,7 +10,7 @@ Welcome to your 30-day Python mission! This structured plan will help you enhanc
 ## Days 6-10: Data Structures
 - **Day 6-7**: Lists: creation, indexing, slicing, common operations.✔️
 - **Day 8-9**: Tuples and dictionaries: properties, use cases.✔️
-- **Day 10**: Sets: introduction, operations.
+- **Day 10**: Sets: introduction, operations.✔️
 
 ## Days 11-15: Advanced Concepts
 - **Day 11**: File handling: reading from and writing to files.
