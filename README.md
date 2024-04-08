@@ -16,7 +16,7 @@ Welcome to your 30-day Python mission! This structured plan will help you enhanc
 - **Day 11**: File handling: reading from and writing to files.✔️
 - **Day 12-13**: Object-oriented programming (OOP): classes, objects, inheritance.✔️
 - **Day 14**: Exception handling: try, except, finally blocks.✔️
-- **Day 15**: Review and practice.
+- **Day 15**: Review and practice.✔️
 
 ## Days 16-20: Intermediate Python
 - **Day 16**: Modules and packages: importing, creating packages.
