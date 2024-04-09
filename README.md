@@ -19,7 +19,7 @@ Welcome to your 30-day Python mission! This structured plan will help you enhanc
 - **Day 15**: Review and practice.✔️
 
 ## Days 16-20: Intermediate Python
-- **Day 16**: Modules and packages: importing, creating packages.
+- **Day 16**: Modules and packages: importing, creating packages.✔️
 - **Day 17-18**: Regular expressions (regex): pattern matching.
 - **Day 19**: Functional programming: map, filter, lambda functions.
 - **Day 20**: Project brainstorming.
