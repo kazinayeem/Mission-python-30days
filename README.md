@@ -22,7 +22,7 @@ Welcome to your 30-day Python mission! This structured plan will help you enhanc
 - **Day 16**: Modules and packages: importing, creating packages.✔️
 - **Day 17-18**: Regular expressions (regex): pattern matching.✔️
 - **Day 19**: Functional programming: map, filter, lambda functions.✔️
-- **Day 20**: Project brainstorming.
+- **Day 20**: Project brainstorming.✔️
 
 ## Days 21-25: Data Manipulation and Analysis
 - **Day 21-22**: NumPy basics: arrays, array operations.
