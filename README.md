@@ -1,4 +1,4 @@
-# 30-Day Python Mission
+# 30-Day Python Mission ✔️
 
 Welcome to your 30-day Python mission! This structured plan will help you enhance your Python skills gradually over the next month.
 
@@ -24,7 +24,7 @@ Welcome to your 30-day Python mission! This structured plan will help you enhanc
 - **Day 19**: Functional programming: map, filter, lambda functions.✔️
 - **Day 20**: Project brainstorming.✔️
 
-## Days 21-25: Data Manipulation and Analysis
+## Days 21-25: Data Manipulation and Analysis ✔️ 1
 - **Day 21-22**: NumPy basics: arrays, array operations.
 - **Day 23-24**: Pandas basics: Series, DataFrames, manipulation.
 - **Day 25**: Data analysis project initiation.
