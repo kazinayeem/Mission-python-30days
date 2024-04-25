@@ -27,7 +27,7 @@ Welcome to your 30-day Python mission! This structured plan will help you enhanc
 ## Days 21-25: Data Manipulation and Analysis 
 - **Day 21-22**: NumPy basics: arrays, array operations.✔️ 
 - **Day 23-24**: Pandas basics: Series, DataFrames, manipulation.✔️
-- **Day 25**: Data analysis project initiation.
+- **Day 25**: Data analysis project initiation.✔️
 
 ## Days 26-30: Project Development
 - **Day 26-29**: Project development and implementation.
